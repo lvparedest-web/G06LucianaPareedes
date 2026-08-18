@@ -10,7 +10,8 @@ print(a[1])
 print(a[1][1])
 
 #b)
-#Hallar el valor, el tipo y la longitud de a si:
+#Hallar el valor, el tipo y la longitud de a si:
+
 #i
 a = []
 print("Valor: ", a)

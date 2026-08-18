@@ -16,11 +16,9 @@ print(a[-1:4])
 #viii)
 print(a[4:-1])
 print(a)     #a no cambia
-
 #¿Es posible predecir el resultado de a == a[:7] + a[7:]?
 print(a == a[:7] + a[7:])
 #Sí, porque se parte de una cadena en 2 y al juntarla se obtiene de nuevo la cadena
-
 #i)
 print(a[2:99])
 #ii)
@@ -29,7 +27,6 @@ print(a[99:2])  #Se obtiene una cadena vacía aunque el índice este fuera del r
 print(a[-99:2])
 #iv)
 print(a[-99:99])      
-
 #a. ¿Qué índices habrá que utilizar para obtener ’Luren’?
 print(a[15:21])
 #b. Encontrar u, y, v, x de modo a[u:v] + a[x:y] sea ’Juan y Luren’

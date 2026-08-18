@@ -8,4 +8,4 @@ f(a)
 print(b)
 """Porque en el programa principal se determina que "a" tiene un elemento, 2,
 y que "b" y "a" hacen referencia a la misma lista, entonces el valor añadido
-a la lista "a" en la función, también se agrega a "b".
+a la lista "a" en la función, también se agrega a "b"."""

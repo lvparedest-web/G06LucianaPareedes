@@ -16,7 +16,8 @@ a = [7, 28, 9]
 print(a)
 print(c)
 #f) Cambiar a tuplas los ejercicios de listas anteriormente resueltos , osea,
-#comenzando con a = 11,12, 13 y ver los erorres que se producen.
+#comenzando con a = 11,12, 13 y ver los erorres que se producen.
+
 a = (11,12, 13)
 print(a)
 a[0] = 5

@@ -8,7 +8,8 @@ print(b[3])
 b.append("c")     #agrega un valor
 print(b)
 print(len(b))
-#ii. b.pop()
+#ii. b.pop()
+
 b.pop()     #elimina el último valor
 print(b)
 print(len(b))
@@ -24,7 +25,8 @@ print(len(b))
 b.insert(-1, "h")    #inserta un valor según el índice negativo sin reemplazo
 print(b)
 print(len(b))
-#vi. b.reverse()
+#vi. b.reverse()
+
 b.reverse()     #voltea el orden de los elementos de la lista
 print(b)
 print(len(b))
